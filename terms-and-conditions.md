@@ -43,7 +43,7 @@ El manejo de la información personal se detalla en la "Política de Privacidad"
 
 ## 9. Cambios en los Términos
 
-MoneyTrack se reserva el derecho de modificar estos Términos en cualquier momento. Los cambios serán reflejados en esta sección. Además, se notificará activamente a los usuarios dentro de la Aplicación en caso de cambios sustanciales. El uso de la Aplicación implica el acuerdo 100% con todos los Términos y Condiciones y la Política de Privacidad, sin ningún tipo de posibilidad de reclamo.
+MoneyTrack se reserva el derecho de modificar estos Términos en cualquier momento. Los cambios serán reflejados en esta sección. El uso de la Aplicación implica el acuerdo 100% con todos los Términos y Condiciones y la Política de Privacidad, sin ningún tipo de posibilidad de reclamo.
 
 ## 10. Ley Aplicable y Jurisdicción
 
