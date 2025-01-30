@@ -35,7 +35,7 @@ El usuario deberá eliminar los datos directamente desde la Aplicación, incluye
 
 ## 5. Cambios en la Política de Privacidad
 
-MoneyTrack puede actualizar esta Política de Privacidad para reflejar cambios en la Aplicación o en las leyes aplicables. Las actualizaciones serán reflejadas en esta sección. Además, los usuarios serán notificados activamente dentro de la Aplicación en caso de cambios sustanciales. El uso de la Aplicación implica el acuerdo 100% con todos los Términos y Condiciones y la Política de Privacidad, sin ningún tipo de posibilidad de reclamo.
+MoneyTrack puede actualizar esta Política de Privacidad para reflejar cambios en la Aplicación o en las leyes aplicables. Las actualizaciones serán reflejadas en esta sección. El uso de la Aplicación implica el acuerdo 100% con todos los Términos y Condiciones y la Política de Privacidad, sin ningún tipo de posibilidad de reclamo.
 
 ## 6. Contacto
 
